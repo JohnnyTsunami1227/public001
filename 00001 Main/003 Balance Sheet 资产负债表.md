@@ -1,7 +1,10 @@
 BalanceSheet
 
-500万 房产
-500万 现金
-300万 现金
-1千万 现金
+Shanghai
+500万 realestate
+500万 realestate
+300万 liquid
+1千万 liquid
+
+
 
