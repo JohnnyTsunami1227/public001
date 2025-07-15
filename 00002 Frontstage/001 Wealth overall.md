@@ -1,3 +1,5 @@
+Naval Formular
+
 - Happiness = Health + Wealth + Good Relationships
 - Health = Exercise + Diet + Sleep
 - Exercise = High Intensity Resistance Training + Sports + Rest
